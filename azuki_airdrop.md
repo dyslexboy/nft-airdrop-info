@@ -10,7 +10,7 @@ The $ANIME airdrop has already occurred as part of the token's launch on January
 - [Atsuland Saga: Waifu](https://opensea.io/collection/atsuland-saga-waifu)
 - [BaeCafe](https://opensea.io/collection/baecafe)
 - [Capsule House](https://opensea.io/collection/capsulehouse)
-- [CLONE X](https://opensea.io/collection/clonex)
+- [CLONE X +](https://opensea.io/collection/clonex)
 - [Delabs Adventure Pass](https://opensea.io/collection/delabsadventurepass)
 - [DXNK](https://opensea.io/collection/dxnk)
 - [Everai](https://opensea.io/collection/everai)
